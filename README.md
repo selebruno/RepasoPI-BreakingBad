@@ -96,6 +96,7 @@ __Ruta de creación de personaje: debe contener
   - Nickname 
   - Cumpleaños 
   - Status
+  - Imagen
 - [ ] Posibilidad de seleccionar/agregar una o más ocupaciones
 - [ ] Botón/Opción para crear un nuevo personaje
  
